@@ -1,8 +1,8 @@
 # AI-Hire Interviewer
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/AI-Hire-Interviewer)
+![GitHub last commit](https://img.shields.io/github/last-commit/dishax2510/AI-Hire-Interviewer)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/AI-Hire-Interviewer)
+![Contributors](https://img.shields.io/github/contributors/dishax2510/AI-Hire-Interviewer)
 
 ## Project Overview
 
